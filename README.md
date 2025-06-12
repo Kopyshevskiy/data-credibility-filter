@@ -1,6 +1,6 @@
 # VHDL Sensor Data Filter with Outlier Handling
 
-This repository contains the VHDL source code and documentation for a digital logic module designed for the "Logic Networks" course (Prof. Fabio Salice, 2023/2024). The project implements a robust system for filtering sensor data, handling outliers, and managing data credibility over time.
+This repository contains the VHDL source code and documentation for a digital logic module designed for the "Logic Networks" course. The project implements a robust system for filtering sensor data, handling outliers, and managing data credibility over time.
 
 ## Project Overview
 
